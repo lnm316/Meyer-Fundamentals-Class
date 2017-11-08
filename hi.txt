@@ -1,1 +1,3 @@
 Hello world, I am learning Git to better track my work
+
+Hello! My name is Elder Price
